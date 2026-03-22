@@ -2,17 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sean%20Young%20Song%20Jie&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=IEM%20Fresh%20Grad%20%7C%20Product%20Engineer%20%40%20NCS&descAlignY=58&descSize=18&descColor=ddddff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=550&lines=Software+Engineer+%F0%9F%92%BB;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;NTU+IEM+Fresh+Grad+%F0%9F%8E%93;Product+Engineer+%40+NCS+%F0%9F%9A%80;Always+Building+Something+New+%E2%9C%A8)](https://github.com/ysjsean)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;NTU+IEM+Fresh+Grad+%F0%9F%8E%93;Product+Engineer+%40+NCS+%F0%9F%9A%80;Always+Building+Something+New+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/ysjsean?tab=followers">
-  <img src="https://img.shields.io/github/followers/ysjsean?style=for-the-badge&logo=github&label=FOLLOWERS&color=764ba2&labelColor=1a1a2e" />
-</a>
-&nbsp;
-<a href="https://github.com/ysjsean">
-  <img src="https://komarev.com/ghpvc/?username=ysjsean&style=for-the-badge&label=PROFILE+VIEWS&color=667eea" />
-</a>
+<a href="https://github.com/ysjsean?tab=followers"><img src="https://img.shields.io/github/followers/ysjsean?style=for-the-badge&logo=github&label=FOLLOWERS&color=764ba2&labelColor=1a1a2e" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/ysjsean"><img src="https://komarev.com/ghpvc/?username=ysjsean&style=for-the-badge&label=PROFILE+VIEWS&color=667eea" /></a>
 
 </div>
 
@@ -25,7 +21,7 @@ const sean = {
   role:      "Product Engineer @ NCS",
   education: "B.Eng Information Engineering & Media - NTU Singapore",
   interests: ["Web Technologies", "Artificial Intelligence", "Game Dev"],
-  currentlyLearning: ["React ecosystem", "AI/ML pipelines", "Cloud infra"],
+  currentlyLearning: ["React ecosystem", "AI/ML pipelines", "AI Agents"],
   funFact:   "I debug with console.log() and I am not ashamed 🙃",
   openTo:    "Collaborations, side projects, and interesting conversations!",
 };
@@ -54,12 +50,11 @@ const sean = {
 
 | Project | Description | Stack |
 |---|---|---|
+| [🚀 JARMS](https://github.com/ysjsean/JARMS) | Job Application & Recruitment Management System | TypeScript · React |
+| [📅 FYP Timetable App](https://github.com/ysjsean/fyp-timetable-extraction-app) | Timetable extraction app for NTU EEE professors | Python |
+| [🍜 NTUmami](https://github.com/ysjsean/NTUmami) | Online food ordering web portal for NTU | PHP · HTML |
 | [🎮 Arduino Tetris](https://github.com/ysjsean/Arduino_Tetris_Game) | Classic Tetris running on Arduino hardware | C++ · Arduino |
 | [🐍 Slither Hostage 3D](https://github.com/ysjsean/SlitherHostage3DGame) | 3D Unity game with custom shaders | Unity · ShaderLab |
-| [🍜 NTUmami](https://github.com/ysjsean/NTUmami) | Online food ordering web portal for NTU | PHP · HTML |
-| [📅 FYP Timetable App](https://github.com/ysjsean/fyp-timetable-extraction-app) | Timetable extraction app for NTU EEE professors | Python |
-| [✅ Sample Todo App](https://github.com/ysjsean/SampleTodoApp) | Full-stack todo application | TypeScript |
-| [😌 ComfortX](https://github.com/ysjsean/ComfortX) | Wellbeing web application (CS2024 course project) | HTML · JS |
 
 ---
 
