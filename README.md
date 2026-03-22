@@ -1,36 +1,52 @@
 <div align="center">
 
-# Hey, I'm Sean 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sean%20Young%20Song%20Jie&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=IEM%20Fresh%20Grad%20%7C%20Product%20Engineer%20%40%20NCS&descAlignY=58&descSize=18&descColor=ddddff" />
 
-**Computer Engineering student @ NTU Singapore**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=550&lines=Software+Engineer+%F0%9F%92%BB;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;NTU+IEM+Fresh+Grad+%F0%9F%8E%93;Product+Engineer+%40+NCS+%F0%9F%9A%80;Always+Building+Something+New+%E2%9C%A8)](https://github.com/ysjsean)
 
-Building things at the intersection of software, data, and hardware.
+<br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/ysjsean?style=flat-square&color=6e40c9&labelColor=1a1a2e)](https://github.com/ysjsean?tab=followers)
-[![Profile views](https://komarev.com/ghpvc/?username=ysjsean&style=flat-square&color=6e40c9)](https://github.com/ysjsean)
+<a href="https://github.com/ysjsean?tab=followers">
+  <img src="https://img.shields.io/github/followers/ysjsean?style=for-the-badge&logo=github&label=FOLLOWERS&color=764ba2&labelColor=1a1a2e" />
+</a>
+&nbsp;
+<a href="https://github.com/ysjsean">
+  <img src="https://komarev.com/ghpvc/?username=ysjsean&style=for-the-badge&label=PROFILE+VIEWS&color=667eea" />
+</a>
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### 👨‍💻 About Me
+
+```typescript
+const sean = {
+  role:      "Product Engineer @ NCS",
+  education: "B.Eng Information Engineering & Media - NTU Singapore",
+  interests: ["Web Technologies", "Artificial Intelligence", "Game Dev"],
+  currentlyLearning: ["React ecosystem", "AI/ML pipelines", "Cloud infra"],
+  funFact:   "I debug with console.log() and I am not ashamed 🙃",
+  openTo:    "Collaborations, side projects, and interesting conversations!",
+};
+```
+
+---
+
+### 🛠️ Tech Stack
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Tools & Platforms**
+**DevOps & Tools**
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -38,39 +54,29 @@ Building things at the intersection of software, data, and hardware.
 
 | Project | Description | Stack |
 |---|---|---|
-| [🎮 Arduino Tetris](https://github.com/ysjsean/Arduino_Tetris_Game) | Classic Tetris built on Arduino hardware | C++ · Arduino |
+| [🎮 Arduino Tetris](https://github.com/ysjsean/Arduino_Tetris_Game) | Classic Tetris running on Arduino hardware | C++ · Arduino |
 | [🐍 Slither Hostage 3D](https://github.com/ysjsean/SlitherHostage3DGame) | 3D Unity game with custom shaders | Unity · ShaderLab |
 | [🍜 NTUmami](https://github.com/ysjsean/NTUmami) | Online food ordering web portal for NTU | PHP · HTML |
 | [📅 FYP Timetable App](https://github.com/ysjsean/fyp-timetable-extraction-app) | Timetable extraction app for NTU EEE professors | Python |
-| [📊 Sales Analysis](https://github.com/ysjsean/SalesAnalysis) | Data analysis and visualisation project | Python · Jupyter |
 | [✅ Sample Todo App](https://github.com/ysjsean/SampleTodoApp) | Full-stack todo application | TypeScript |
+| [😌 ComfortX](https://github.com/ysjsean/ComfortX) | Wellbeing web application (CS2024 course project) | HTML · JS |
 
 ---
 
-### 📈 GitHub Stats
+### 🤝 Open to Collaborations
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ysjsean&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysjsean&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
-
-</div>
-
----
-
-### 🌱 Currently
-
-- 🔭 Wrapping up my Final Year Project and diving deeper into NLP and document parsing
-- 📚 Exploring machine learning and data engineering
-- 🎯 Open to internship and collaboration opportunities
+> Got a cool idea? I'm always up for collaborating on interesting projects — especially in **web development**, **AI/ML**, or anything creative. Feel free to reach out!
 
 ---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ysjsean)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ysjsean@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ysjsean)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seanyoungsongjie@gmail.com)
 
-*Thanks for stopping by!* ✨
+*Thanks for stopping by — let's build something awesome together!* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
 
 </div>
