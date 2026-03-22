@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ysjsean/ysjsean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sean%20Young&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=IEM%20Fresh%20Grad%20%7C%20Product%20Engineer%20%40%20NCS&descAlignY=58&descSize=18&descColor=ddddff" />
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=900&lines=Software+Engineer+%F0%9F%92%BB;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;NTU+IEM+Fresh+Grad+%F0%9F%8E%93;Product+Engineer+%40+NCS+%F0%9F%9A%80;Always+Building+Something+New+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+<p align="center">
+<a href="https://github.com/ysjsean?tab=followers"><img src="https://img.shields.io/github/followers/ysjsean?style=for-the-badge&logo=github&label=FOLLOWERS&color=764ba2&labelColor=1a1a2e" /></a>
+&nbsp;&nbsp;
+<a href="https://github.com/ysjsean"><img src="https://komarev.com/ghpvc/?username=ysjsean&style=for-the-badge&label=PROFILE+VIEWS&color=667eea" /></a>
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+```typescript
+const sean = {
+  role:      "Product Engineer @ NCS",
+  education: "B.Eng Information Engineering & Media - NTU Singapore",
+  interests: ["Web Technologies", "Artificial Intelligence", "Game Dev"],
+  currentlyLearning: ["React ecosystem", "AI/ML pipelines", "AI Agents"],
+  funFact:   "I debug with console.log() and I am not ashamed 🙃",
+  openTo:    "Collaborations, side projects, and interesting conversations!",
+};
+```
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**DevOps & Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [🚀 JARMS](https://github.com/ysjsean/Project-JARMS) | AI-Assisted Emergency Audio Triage System for elderly PAB alerts — HackOMania 2026 | React · FastAPI · Supabase · OpenAI |
+| [📅 FYP Timetable App](https://github.com/ysjsean/fyp-timetable-extraction-app) | Timetable extraction app for NTU EEE professors | Python |
+| [🍜 NTUmami](https://github.com/ysjsean/NTUmami) | Online food ordering web portal for NTU | PHP · HTML |
+| [🎮 Arduino Tetris](https://github.com/ysjsean/Arduino_Tetris_Game) | Classic Tetris running on Arduino hardware | C++ · Arduino |
+| [🐍 Slither Hostage 3D](https://github.com/ysjsean/SlitherHostage3DGame) | 3D Unity game with custom shaders | Unity · ShaderLab |
+
+---
+
+### 🤝 Open to Collaborations
+
+> Got a cool idea? I'm always up for collaborating on interesting projects — especially in **web development**, **AI/ML**, or anything creative. Feel free to reach out!
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=&logoColor=white)](https://www.linkedin.com/in/ysjsean)
+&nbsp;
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seanyoungsongjie@gmail.com)
+
+*Thanks for stopping by — let's build something awesome together!* 🚀
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer" />
+
+</div>
