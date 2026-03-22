@@ -50,7 +50,7 @@ const sean = {
 
 | Project | Description | Stack |
 |---|---|---|
-| [🚀 JARMS](https://github.com/ysjsean/Project-JARMS) | Job Application & Recruitment Management System | TypeScript · React |
+| [🚀 JARMS](https://github.com/ysjsean/Project-JARMS) | AI-Assisted Emergency Audio Triage System for elderly PAB alerts — HackOMania 2026 | React · FastAPI · Supabase · OpenAI |
 | [📅 FYP Timetable App](https://github.com/ysjsean/fyp-timetable-extraction-app) | Timetable extraction app for NTU EEE professors | Python |
 | [🍜 NTUmami](https://github.com/ysjsean/NTUmami) | Online food ordering web portal for NTU | PHP · HTML |
 | [🎮 Arduino Tetris](https://github.com/ysjsean/Arduino_Tetris_Game) | Classic Tetris running on Arduino hardware | C++ · Arduino |
