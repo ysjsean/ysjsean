@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Sean%20Young&fontSize=50&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=IEM%20Fresh%20Grad%20%7C%20Product%20Engineer%20%40%20NCS&descAlignY=58&descSize=18&descColor=ddddff" />
 
+<p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=800&lines=Software+Engineer+%F0%9F%92%BB;React+%26+TypeScript+Developer+%E2%9A%9B%EF%B8%8F;NTU+IEM+Fresh+Grad+%F0%9F%8E%93;Product+Engineer+%40+NCS+%F0%9F%9A%80;Always+Building+Something+New+%E2%9C%A8" alt="Typing SVG" />
+</p>
 
 <br/>
 
